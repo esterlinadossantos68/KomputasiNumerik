@@ -1,0 +1,23 @@
+
+DAFTAR PROMPT AI
+Mata Kuliah: Komputasi Numerik
+
+1. Bantu saya mengerjakan tugas Komputasi Numerik dan arahkan saya langkah demi langkah sampai selesai.
+
+2. Buatkan algoritma penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss.
+
+3. Buatkan program Python untuk menyelesaikan SPL tiga variabel menggunakan metode Eliminasi Gauss di Google Colab.
+
+4. Jelaskan fungsi setiap bagian kode Python agar mudah dipahami.
+
+5. Cell 4 setelah dijalankan tidak menampilkan hasil. Jelaskan penyebabnya dan langkah selanjutnya.
+
+6. Bantu saya menyimpan notebook Google Colab ke GitHub.
+
+7. Arahkan saya melengkapi file repository GitHub sesuai persyaratan tugas.
+
+8. Bantu saya memeriksa kelengkapan tugas Komputasi Numerik sebelum dikumpulkan.
+
+Catatan:
+Prompt di atas merupakan rangkuman instruksi yang digunakan
+dalam proses pengerjaan tugas dengan bantuan AI.
