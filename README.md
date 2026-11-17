@@ -1,16 +1,6 @@
-
 # Komputasi Numerik
 
-## Implementasi Algoritma Sistem Persamaan Linear Tiga Variabel Menggunakan Python
-
-### Identitas Mahasiswa
-- Nama: Esterlina Rahab Dos Santos
-- NIM: 202511420081
-- Program Studi: Teknik Informatika
-- Universitas: Universitas Dr. Soetomo
-
-### Deskripsi
-Proyek ini merupakan tugas mata kuliah Komputasi Numerik yang membahas penyelesaian Sistem Persamaan Linear (SPL) tiga variabel menggunakan metode Eliminasi Gauss dengan bahasa pemrograman Python.
+## Penyelesaian Sistem Persamaan Linear Tiga Variabel dengan Metode Eliminasi Gauss
 
 ### Tujuan
 1. Memahami algoritma Eliminasi Gauss.
@@ -22,8 +12,11 @@ Proyek ini merupakan tugas mata kuliah Komputasi Numerik yang membahas penyelesa
 Metode Eliminasi Gauss dengan pivoting parsial dan substitusi mundur.
 
 ### Contoh Sistem Persamaan
+
 2x + y - z = 8
+
 -3x - y + 2z = -11
+
 -2x + y + 2z = -3
 
 ### Hasil
@@ -32,9 +25,11 @@ Metode Eliminasi Gauss dengan pivoting parsial dan substitusi mundur.
 - z = -1
 
 ### Daftar File
-- 02_Algoritma_SPL_3_Variabel.md
-- 03_Program_SPL_Eliminasi_Gauss.ipynb
-- 01_Link_Akun.txt
-- 04_Prompt_AI.txt
-# KomputasiNumerik
-Implementasi Algoritma Sistem Persamaan Linear Tiga Variabel Menggunakan Python.
+1. `01_Link_Akun.txt`
+2. `02_Algoritma_SPL_3_Variabel.md`
+3. `03_Program_SPL_Eliminasi_Gauss.ipynb`
+4. `04_Prompt_AI.txt`
+5. `Presentasi_Komputasi_Numerik.mp4`
+
+### Kesimpulan
+Program Python berhasil menyelesaikan sistem persamaan linear tiga variabel menggunakan metode Eliminasi Gauss dan substitusi mundur. Hasil perhitungan telah diverifikasi terhadap persamaan awal.
